@@ -1,0 +1,42 @@
+.style {
+     font-size: 40px;
+     color: skyblue;
+     line-height: 4.5;
+     letter-spacing: 1.2em;
+     text-align: center;
+     text-shadow: 1px 1px 2px gray;
+     background-color: rgb(183, 179, 133);
+     border-bottom: 3px solid rgb(115, 115, 114);
+     text-shadow: 1px color(srgb red green rgb(0, 64, 255));
+}
+.style{
+
+     text-align: center;
+}
+
+h2 {
+     font-size: 20px;
+     color: pink;
+     text-align: center;
+
+}
+
+
+
+
+
+
+.style {
+     font-family: "Arial", "Meiryo", sans-serif;
+     font-size: 20x;
+     text-align: center;
+   }
+   
+.google-fonts{
+     font-family: "Noto Sans JP", sans-serif;
+ 
+}
+
+
+
+
