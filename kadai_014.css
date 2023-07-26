@@ -1,0 +1,104 @@
+h1{
+  font-size: 40px;
+  line-height: 4.5;
+  letter-spacing: 1.2em;
+  text-align: center;
+  text-shadow: 1px 1px 2px gray;
+  background-color: rgb(183, 156, 133);
+  border-bottom: 3px solid rgb(115, 115, 114);
+  text-shadow: 1px color(srgb red green rgb(0, 64, 255));
+}
+
+
+
+
+ .M{
+
+  color: skyblue;
+
+ }  
+
+ .Y{
+  color: black;
+}
+
+   
+
+.P{
+   
+   color: pink;
+   
+   
+
+}
+
+.R{
+  color: black;
+}  
+
+.O{
+  color: black;
+}
+
+.F{
+
+color: black;
+}
+
+.I{
+  color: black;
+}
+
+.L{
+  color: black;
+}
+
+.E{
+  color: black;
+}
+
+.name{
+  font-size: 20px;
+  color: pink;
+  text-align: center;
+
+
+}
+#basic{
+   font-size: 20px;
+   color: pink;
+   text-align: center;
+
+} 
+.thick{
+  font-weight: bold;
+  text-align: center;
+  
+}
+p{
+  text-align: center;
+  
+}
+
+h2{
+  font-size: 20px;
+  color: skyblue;
+  text-align: center;
+}
+
+.color{
+
+font-size: 20px;
+color: skyblue;
+text-align: center;
+}
+.style {
+  font-family: "Arial", "Meiryo", sans-serif;
+  font-size: 20x;
+  text-align: center;
+}
+
+.google-fonts{
+  font-family: "Noto Sans JP", sans-serif;
+
+}
